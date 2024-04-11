@@ -1,0 +1,48 @@
+.container{
+    padding-bottom: 40px;
+    padding-left: 40px;
+    padding-right: 40px;
+    width: 1175px;
+}
+.entete{
+    display: flex;
+    border: 3px solid rgb(213, 212, 212);
+    border-radius: 8px;
+    padding: 40px;
+    width: 90%;
+}
+
+.profil{
+    margin-left: 30px;
+}
+
+.info1{
+    margin-left: 90px;
+    letter-spacing: 2px;
+    color: #007FFF;
+}
+
+.info2{
+    margin-left: 90px;
+    letter-spacing: 2px;
+    color: #007FFF;
+}
+
+
+
+
+.description{
+    margin-top: 50px;
+    display: flex;
+    border: 3px solid rgb(213, 212, 212);
+    border-radius: 8px;
+    padding: 40px;
+    width: 90%;
+    color: #007FFF;
+}
+
+.profile{
+    color: #007FFF;
+    margin-left: 30px;
+    font-size: 20px;
+}

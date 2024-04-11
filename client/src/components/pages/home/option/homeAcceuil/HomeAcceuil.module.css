@@ -1,0 +1,78 @@
+.content{
+    
+    border-left: 1px solid whitesmoke;
+    height: 715px;
+}
+
+
+.milieu{
+    display: flex;
+    justify-content: space-around;
+}
+.home{
+    color: #007FFF;
+    margin-left: 30px;
+    font-size: 20px;
+}
+
+.article__ecole{
+    text-align: center;
+    padding: 25px;
+    width: 260px;
+    height: 240px;
+    border: 3px solid whitesmoke;
+    border-radius: 8px;
+    color: #007FFF;
+}
+
+.info{
+    margin-left: 55px;
+    margin-top: 40px;
+    padding-left: 5px;
+    color: #007FFF;
+    width: 1175px;
+    height: 30px;
+    background-color: whitesmoke;
+}
+
+.formation{
+    display: flex;
+    margin-left: 55px;
+    border: 3px solid whitesmoke;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+    width: 1175px;
+    justify-content: space-around;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.programmation{
+    display: flex;
+    align-items: center;
+}
+.programmation h4{
+    margin-top: 0;
+    color: #007FFF;
+    margin-left: 10px;
+}
+
+
+.journalisme{
+    display: flex;
+    align-items: center;
+}
+.journalisme h4{
+    color: #007FFF;
+    margin-left: 10px;
+}
+
+
+.gestion{
+    display: flex;
+    align-items: center;
+}
+.gestion h4{
+    color: #007FFF;
+    margin-left: 10px;
+}

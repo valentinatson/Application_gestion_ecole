@@ -1,0 +1,49 @@
+.pedagogie{
+    color: #007FFF;
+    margin-left: 30px;
+    font-size: 20px;
+}
+.header{
+    display: flex;
+    justify-content: space-evenly;
+    border: 3px solid whitesmoke;
+    margin-left: 30px;
+}
+.article{
+    margin-left: 55px;
+    margin-right: 60px;
+}
+.article h3{
+    letter-spacing: 2px;
+}
+
+.moyenne__detail{
+    margin-left: 0px;
+}
+
+.aside{
+    display: flex;
+    justify-content: center;
+    margin-left: 80px;
+    border-bottom: 3px solid whitesmoke;
+    margin-top: 35px;
+}
+.matiere{
+    text-align: left;
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 50%;
+}
+
+.credit{
+    text-align: left;
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 25%;
+}
+.note{
+    text-align: left;
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 25%;
+}

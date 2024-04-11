@@ -1,0 +1,30 @@
+.commentaire{
+    color: #007FFF;
+    margin-left: 30px;
+    font-size: 20px;
+}
+.area{
+    margin:70px;
+    width: 1175px;
+}
+.send{
+    /* margin-left: 480px; */
+    /* border-radius: 8px; */
+    background-color: #007FFF;
+    color: aliceblue;
+    width: 95.5%;
+}
+.comments{
+    margin: 0px;
+    border: 3px solid whitesmoke;
+    width: 1105px;
+    padding: 10px;
+    margin-left: 70px;
+}
+.last__comments{
+    color: #007FFF;
+    margin-left: 70px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 20px;
+}
